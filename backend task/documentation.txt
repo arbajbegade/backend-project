@@ -1,0 +1,5 @@
+1) Imported modules
+2) Configurd app
+3) Created empty array for memory
+4) Used middleware for validation
+5) setup crud operation such as get, post, put, delete
